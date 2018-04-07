@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.navbar {
+  font-size:25px;
+  font-family: 'Lato', sans-serif;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+header1{
+  font-size:25px;
+  font-family: 'Lato', sans-serif;}
+
+button{
+  padding:10px;
+  margin-bottom:-5px;
+  border:0;
+  display:block;
+  width:100%;
+  background: #ffc800;
+  width:100%;
+  
+  font-family: 'Lato', sans-serif;}
