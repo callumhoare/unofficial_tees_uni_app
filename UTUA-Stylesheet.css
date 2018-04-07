@@ -1,16 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Lato');
-
-header1{
-  /*border-bottom: 5px solid #ffc800;*/
-  font-size:50px;
-  font-family: 'Lato', sans-serif;}
-
+img{display:none;}
 button{
-  padding:15px;
+  padding:10px;
   margin-bottom:-5px;
-  border:0;
   display:block;
-  width:100%;
-  background: #ffc800;
-  font-size:35px;
-  font-family: 'Lato', sans-serif;}
+  width:100%;}
